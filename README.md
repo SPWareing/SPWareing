@@ -6,7 +6,7 @@
      style="float: right; margin-right: 10px;" /></p>
 
 - 👀 I’m a Pythonista with a bit of SQL mixed in. 
-- 🌱 Currently I'm getting to grips with spinning up resources on Azure, in between taking my DBA Exam
+- 🌱 Currently I'm getting to grips with spinning up resources on Azure, in between ~~taking~~ passing my DBA Exam
 
 - 💞️ I’m looking to collaborate on GeoSpatial, Azure PS or Python projects.
 - 📫  [off to linkedin...](https://www.linkedin.com/in/stewart-wareing-81923a51/)

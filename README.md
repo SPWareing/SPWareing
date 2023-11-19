@@ -9,7 +9,7 @@
 - 🌱 Currently I'm getting to grips with REACT and Typescript and building PCFs
   
   [ImageSliderPCF @ PCFGallery](https://pcf.gallery/imagesliderpcf/)
-- 💞️ I’m looking to collaborate on PowerP latform, Azure PS or Python projects.
+- 💞️ I’m looking to collaborate on Power Platform, Azure PS or Python projects.
 - 📫  [off to linkedin...](https://www.linkedin.com/in/stewart-wareing-81923a51/)
 
 

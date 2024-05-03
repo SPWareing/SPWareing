@@ -37,7 +37,7 @@
 <p align="right"><img src="https://www.codewars.com/users/LesPaulStudio/badges/micro"
      alt="Markdown Monster icon"
      style="float: right; margin-right: 10px;" /></p>
-<a href="https://www.linkedin.com/in/stewart-wareing-81923a51/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
+<a href="https://www.linkedin.com/in/stewart-wareing-81923a51/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
 <!---
 SPWareing/SPWareing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

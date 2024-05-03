@@ -5,16 +5,32 @@
      alt="Markdown Monster icon"
      style="float: right; margin-right: 10px;" /></p>
 
-- 👀 I’m a Power Platform Developer. 
-- 🌱 Currently I'm getting to grips with REACT and Typescript and building PCFs
+- In my day job I'm a Power Platform Developer.
+- I’m looking to collaborate on Power Platform, Azure PS or Python projects.<br>
+
+<div align="center"> Currently I'm getting to grips with REACT and Typescript and building PCFs </div><br>
+
+
+
   
-  [ImageSliderPCF @ PCFGallery](https://pcf.gallery/imagesliderpcf/)
-- 💞️ I’m looking to collaborate on Power Platform, Azure PS or Python projects.
-- 📫  [off to linkedin...](https://www.linkedin.com/in/stewart-wareing-81923a51/)
+  
 
 
+<div align="center"><a href="https://pcf.gallery/imagesliderpcf">ImageSliderPCF @ PCFGallery</a></div>
 
 
+--------
+  
+  
+![My Skills](https://skillicons.dev/icons?i=linkedin)   [off to linkedin...](https://www.linkedin.com/in/stewart-wareing-81923a51/)
+
+
+![SPWareing's Stats](https://github-readme-stats.vercel.app/api?username=SPWareing&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+----
+
+### Tech Stack
+![My Skills](https://skillicons.dev/icons?i=azure,cs,py,ts)
 
 <!---
 SPWareing/SPWareing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

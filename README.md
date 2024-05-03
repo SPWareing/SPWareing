@@ -14,7 +14,11 @@
   
 
 
-<div align="center"><a href="https://pcf.gallery/imagesliderpcf">ImageSliderPCF @ PCFGallery</a></div>
+<div align="center"><a href="https://pcf.gallery/imagesliderpcf">ImageSliderPCF @ PCFGallery</a> <br>
+<img  src="https://github.com/SPWareing/ImageSliderPCF/blob/master/screensnip.png"/>
+</div>
+
+
 
 
 --------
